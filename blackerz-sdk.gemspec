@@ -6,14 +6,14 @@ Gem::Specification.new do |spec|
   spec.name          = "blackerz-sdk"
   spec.version       = Blackerz::Sdk::VERSION
   spec.authors       = ["Fastering"]
-  spec.email         = ["73803835+Fastering18@users.noreply.github.com"]
+  spec.email         = ["blackerzdiscord@gmail.com"]
 
   spec.summary       = "Ruby SDK to interact with blackerz bot list"
   spec.description   = "Blackerz API wrapper written in Ruby."
   spec.homepage      = "https://github.com/fastering18/Blackerz-API-Ruby"
   spec.required_ruby_version = ">= 2.4.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'https://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/fastering18/Blackerz-API-Ruby"
