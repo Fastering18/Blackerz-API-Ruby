@@ -30,4 +30,4 @@ p data
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/Fastering18/blackerz-sdk.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Fastering18/Blackerz-API-Ruby.
